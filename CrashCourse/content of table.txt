@@ -1,0 +1,55 @@
+ - 前言
+  - 我是谁
+  - 我将会提供什么
+  - 这个产品有什么内容
+
+navigate the TouchDesigner network interface.
+identify the key capabilities of each of the operator families.
+create, connect, and modify operators.
+use texture operators to modify images.
+use channel operators to control elements of aTouchDesigner network.
+create 3D rendered scenes.
+create interfaces and control panels.
+organize and refactor operator networks.
+write one-line python expressions.
+create systems of connected operators with python expressions.
+find help additional resources in OP Snippets, the Wiki and the Derivative forum.
+
+  - 有什么特色，它能给你提供什么不一样的点
+  - 如何使用这个产品
+  - 关于价格和报名入口
+  - 结语
+
+
+
+ - 硬件配置 3:00min
+  - 我的配置 
+  - 在安装过程出现不一样的情况，请阅读基本的配置需求
+
+ - 软件安装  3:00min
+  - 在哪里安装
+  - TouchDesigner衍生的其他版本，以及本次课程会涉及的两个版本（non-commercial & TouchPlayer）
+  - 多个版本存在（实验版用于抢先了解未来的功能） 
+
+ - 进入软件 6:min
+   - 注册登录
+   - 界面介绍
+     - Network
+     - 插件区
+     - 时间轴
+     - 节点创栏目
+
+ - 节点家族(快速预览) 10min
+   - TOPs
+   - CHOPs
+   - SOPs
+   - DATs
+   - COMPs
+   - Customs
+ 
+ - 深入探索 
+   - 
+
+
+ - 开始创作吧
+  
