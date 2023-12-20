@@ -1,0 +1,7 @@
+0. how to make a line in TouchDesigner
+	0.1 Why not feedback Top
+	
+1. what's Bezier
+2. Build a canvus
+3. Design a interactive program
+4. Generate visual stuff based on your path 
